@@ -17,4 +17,5 @@ Desarrollo Web con Bootstrap: La estructura y el diseño web se han construido u
 
 
 
-![Uploading PROYECTOBRUNILA.jpg…]()
+
+![PROYECTOBRUNILA](https://github.com/sofia1988/portfolio-sofia-ruiz/assets/62399971/52d369d0-a94e-4b6f-b3e1-2e7364e7a01f)
