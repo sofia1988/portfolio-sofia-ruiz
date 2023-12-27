@@ -189,7 +189,7 @@ li {
     height: 100vh;
 }
 
-/* Declaracion de estilos cuando la pantalla tiene un ancho mayor a mobile */
+/* declaracion de estilos cuando la pantalla tiene un ancho mayor a mobile */
 @media only screen and (min-width: 576px) {
     #main {
         background: url(../img/ponele1c.jpg);
