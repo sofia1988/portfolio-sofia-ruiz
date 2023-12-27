@@ -3,7 +3,7 @@
 
 <p>Bienvenido a mi portfolio personal. Este proyecto ha sido cuidadosamente diseñado para destacar la singularidad y originalidad a través de un efecto glitch aplicado a las imágenes, editadas meticulosamente con Photoshop e Illustrator.
 
-Características Principales
+<h2>Características Principales</h2>
 Efecto Glitch: Las imágenes han sido transformadas con un cautivador efecto glitch, que añade una capa de dinamismo y modernidad al portfolio.
 
 Edición Profesional: Cada imagen ha pasado por un proceso de edición  utilizando herramientas avanzadas como Photoshop e Illustrator, asegurando una presentación visualmente impactante.
