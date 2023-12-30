@@ -17,7 +17,7 @@ La estética minimalista impulsa la elegancia y la claridad en la presentación 
 Las tipografías utilizadas complementan el estilo minimalista, garantizando una lectura fluida y una apariencia cohesiva.
 
 <h3>Desarrollo Web con Bootstrap</h3>
-La estructura y el diseño web se han construido utilizando Bootstrap, proporcionando una base sólida y una interfaz receptiva para adaptarse a diferentes dispositivos y tamaños de pantalla.
+<p>La estructura y el diseño web se han construido utilizando Bootstrap, proporcionando una base sólida y una interfaz receptiva para adaptarse a diferentes dispositivos y tamaños de pantalla.</p>
 
 
 
@@ -25,4 +25,4 @@ La estructura y el diseño web se han construido utilizando Bootstrap, proporcio
 
 
 
-![PROYECTOBRUNILA](https://github.com/sofia1988/portfolio-sofia-ruiz/assets/62399971/52d369d0-a94e-4b6f-b3e1-2e7364e7a01f)
+<div>![PROYECTOBRUNILA](https://github.com/sofia1988/portfolio-sofia-ruiz/assets/62399971/52d369d0-a94e-4b6f-b3e1-2e7364e7a01f)</div>
