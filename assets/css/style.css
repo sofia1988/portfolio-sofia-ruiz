@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Six Caps', sans-serif, 'Tilt Neon', sans-serif, 'VT323', monospace;
+    font-family:'Tilt Neon', sans-serif, 'VT323', monospace;
    
 
 }
@@ -44,14 +44,14 @@ h1 ,h2{
     font-size: 4vh;
 }
 h3 {
-    font-family: 'Six Caps', sans-serif;
+    font-family: 'Tilt Neon', sans-serif;
     font-weight: 400;
-    font-size: 30px;
+    font-size:  3vh;
 }
 
 a {
-    font-family: 'Six Caps', sans-serif;
-    font-weight: 300;
+    font-family: 'Tilt Neon', sans-serif;
+    font-weight: 400;
     font-size: 20px;
 }
 a:hover {
@@ -216,23 +216,7 @@ li {
 
 }
 
-.text-1 {
 
-    animation: 1s glitch infinite;
-    animation-timing-function: steps(2, end);
-}
-
-
-
-@keyframes breath {
-    0% {
-        transform: scale(1);
-    }
-
-    40% {
-        transform: scale(1.1);
-    }
-}
 
 .text-v {
     text-orientation: upright;
@@ -281,7 +265,7 @@ li {
     bottom: 0;
     right: 0;
     box-shadow: 0 0 0 4px #ff013c;
-    transform: translate(4px, 4px);
+    transform: translate(3px, 3px);
     animation: glitchy 0.3s ease infinite reverse;
 }
 
@@ -299,12 +283,14 @@ li {
   
 }
 
-@keyframes glitchy {
-    0%, 100% { transform: translate(0, 0); }
-    25%      { transform: translate(-4px, -4px); }
-    50%      { transform: translate(4px, 4px); }
-    75%      { transform: translate(-4px, 4px); }
-}
+.imagen {
+    width: 100%;
+    transition: transform 0.5s ease;
+  }
+
+  .cartas:hover .imagen {
+    transform: scale(1.1); /* Ajusta el valor según sea necesario para el nivel de zoom deseado */
+  }
 
 
 
